@@ -33,15 +33,15 @@ BookSearch is a web application that allows users to search for books using the 
 
 ### Book List After Search
 
-<img src="./public/screenshots/img-004.png" alt="Book List After Search" width="500"/>
+<img src="./public/screenshots/img-002.png" alt="Book List After Search" width="500"/>
 
-### Dark Mode
+### Dark Mode and Favorites Icon
 
-<img src="./public/screenshot/interface-modo-dark.png" alt="Dark Mode" width="600"/>
+<img src="./public/screenshots/img-003.png" alt="Dark Mode" width="600"/>
 
-### Favorites and Modal Open
+### Modal Open
 
-<img src="./public/screenshot/modal-favoritos.png" alt="Favorites and Modal Open" width="600"/>
+<img src="./public/screenshots/img-004.png" alt="Favorites and Modal Open" width="600"/>
 
 ## :rocket: Technologies
 
