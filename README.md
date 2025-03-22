@@ -25,6 +25,24 @@ BookSearch is a web application that allows users to search for books using the 
 :heavy_check_mark: Open a modal to view more book details;\
 :heavy_check_mark: Toggle between light and dark themes.
 
+## 📸 Screenshots
+
+### Clean Interface
+
+<img src="./public/screenshots/img-001.png" alt="Clean Interface" width="500"/>
+
+### Book List After Search
+
+<img src="./public/screenshots/img-004.png" alt="Book List After Search" width="500"/>
+
+### Dark Mode
+
+<img src="./public/screenshot/interface-modo-dark.png" alt="Dark Mode" width="600"/>
+
+### Favorites and Modal Open
+
+<img src="./public/screenshot/modal-favoritos.png" alt="Favorites and Modal Open" width="600"/>
+
 ## :rocket: Technologies
 
 The following tools were used in this project:
